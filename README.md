@@ -20,7 +20,7 @@ ___
 
 3. Go to the xampp/htdocs folder where you installed your Xampp or Wampp.
 
-4. Clone this project using your Terminal/CMD: git clone 
+4. Clone this project using your Terminal/CMD: git clone https://github.com/philane-Msibi-Ndlondlo/HTTP-REST-Response-To-Generated-PDF-File.git
 
 5. Go to the cloned project root on your machine on and install the mPDF library using this command on Terminal or CMD: composer require mpdf/mpdf
 
